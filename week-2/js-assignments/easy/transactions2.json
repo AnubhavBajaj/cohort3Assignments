@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "timestamp": 1716865538000,
+        "price": 52,
+        "category": "Healthcare",
+        "itemName": "Ointment"
+    },
+    {
+        "id": 2,
+        "timestamp": 1677126492000,
+        "price": 93,
+        "category": "Transportation",
+        "itemName": "Bus Ticket"
+    },
+    {
+        "id": 3,
+        "timestamp": 1660285192000,
+        "price": 98,
+        "category": "Food",
+        "itemName": "Salad"
+    },
+    {
+        "id": 4,
+        "timestamp": 1698422672000,
+        "price": 99,
+        "category": "Transportation",
+        "itemName": "Taxi Ride"
+    },
+    {
+        "id": 5,
+        "timestamp": 1650938889000,
+        "price": 77,
+        "category": "Transportation",
+        "itemName": "Taxi Ride"
+    },
+    {
+        "id": 6,
+        "timestamp": 1670071548000,
+        "price": 85,
+        "category": "Food",
+        "itemName": "Pizza"
+    },
+    {
+        "id": 7,
+        "timestamp": 1652695854000,
+        "price": 34,
+        "category": "Transportation",
+        "itemName": "Train Ticket"
+    },
+    {
+        "id": 8,
+        "timestamp": 1690619983000,
+        "price": 94,
+        "category": "Food",
+        "itemName": "Salad"
+    },
+    {
+        "id": 9,
+        "timestamp": 1700011411000,
+        "price": 62,
+        "category": "Transportation",
+        "itemName": "Train Ticket"
+    },
+    {
+        "id": 10,
+        "timestamp": 1650364652000,
+        "price": 64,
+        "category": "Healthcare",
+        "itemName": "Thermometer"
+    }
+]

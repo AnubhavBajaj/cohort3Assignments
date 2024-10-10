@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "timestamp": 1686991340000,
+        "price": 28,
+        "category": "Medicine",
+        "itemName": "Antibiotic"
+    },
+    {
+        "id": 2,
+        "timestamp": 1659293564000,
+        "price": 20,
+        "category": "Food",
+        "itemName": "Pasta"
+    },
+    {
+        "id": 3,
+        "timestamp": 1727456645000,
+        "price": 35,
+        "category": "Food",
+        "itemName": "Salad"
+    },
+    {
+        "id": 4,
+        "timestamp": 1725277432000,
+        "price": 28,
+        "category": "Food",
+        "itemName": "Burger"
+    },
+    {
+        "id": 5,
+        "timestamp": 1651718354000,
+        "price": 59,
+        "category": "Healthcare",
+        "itemName": "Stethoscope"
+    },
+    {
+        "id": 6,
+        "timestamp": 1646728963000,
+        "price": 77,
+        "category": "Food",
+        "itemName": "Sushi"
+    },
+    {
+        "id": 7,
+        "timestamp": 1711289033000,
+        "price": 8,
+        "category": "Healthcare",
+        "itemName": "Thermometer"
+    },
+    {
+        "id": 8,
+        "timestamp": 1668310371000,
+        "price": 15,
+        "category": "Transportation",
+        "itemName": "Car Rental"
+    },
+    {
+        "id": 9,
+        "timestamp": 1717848709000,
+        "price": 37,
+        "category": "Medicine",
+        "itemName": "Cough Syrup"
+    },
+    {
+        "id": 10,
+        "timestamp": 1676545392000,
+        "price": 86,
+        "category": "Healthcare",
+        "itemName": "Stethoscope"
+    }
+]
