@@ -10,7 +10,7 @@ function calculateTotalSpentByCategory(transactions) {
         else hashMap.set(transaction.category, transaction.price);
     });
     let totalSpentbyCategory = [];
-    hashMap.forEach((key,value)=>{
+    hashMap.forEach((value,key)=>{
         totalSpentbyCategory.push({
             category: key,
             totalSpent: value
